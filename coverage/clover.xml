@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680409548458" clover="3.2.0">
+  <project timestamp="1680409548458" name="All files">
+    <metrics statements="25" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0" elements="31" coveredelements="0" complexity="0" loc="25" ncloc="25" packages="3" files="11" classes="11"/>
+    <package name="src">
+      <metrics statements="20" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="alert-message.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/alert-message.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+      </file>
+      <file name="exercise-1.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/exercise-1.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+      <file name="exercise-2.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/exercise-2.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+      <file name="fruit-basket.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/fruit-basket.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+      <file name="github-card.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/github-card.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+      </file>
+      <file name="list.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/list.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+      <file name="salad-bowl.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/salad-bowl.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="temprature.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/temprature.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+      <file name="test.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/test.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="list-item.vue" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/components/list-item.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="salad-store.js" path="/Users/zlarkisz/Desktop/Projects/VueSchoolio/testing-vue-components/src/store/salad-store.js">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

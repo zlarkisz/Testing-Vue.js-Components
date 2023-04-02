@@ -1,3 +1,20 @@
+# Node.js files
 node_modules/
-.vscode/settings.json
-yarn.lock
+npm-debug.log
+
+# Compiled output
+/dist/
+/build/
+*.map
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
